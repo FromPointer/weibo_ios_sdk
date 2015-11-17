@@ -123,7 +123,7 @@ the server cannot be made."这样的问题。
 	<key>NSAppTransportSecurity</key>
 	<dict>
 	<key>NSAllowsArbitraryLoads</key>
-	</true>
+	<true/>
 	</dict>
 
 ###2.对应用跳转的支持
